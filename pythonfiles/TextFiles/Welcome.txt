@@ -1,0 +1,9 @@
+Welcome to Python.
+1 Mimo
+2 Minsi
+3 Insy
+4 simon
+5 cuteness
+6 mimoness
+7 sugar
+8 salt
