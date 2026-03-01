@@ -1,0 +1,44 @@
+Industry,Funds,Location
+Accounting/Finance,10000,A
+Advertising/Public Relations,,A
+Aerospace/Aviation,,A
+Arts/Entertainment/Publishing,20000,A
+Automotive,10000,A
+Banking/Mortgage,10000,A
+Business Development,10000,A
+Business Opportunity,10000,A
+Clerical/Administrative,10000,A
+Construction/Facilities,10000,E
+Consumer Goods,10000,E
+Customer Service,50000,A
+Education/Training,50000,
+Energy/Utilities,50000,A
+Engineering,50000,A
+Government/Military,50000,A
+Green,50000,B
+Healthcare,50000,B
+Hospitality/Travel,50000,B
+Human Resources,50000,B
+Installation/Maintenance,50000,E
+Insurance,,B
+Internet,50000,B
+Job Search Aids,10000,B
+Law Enforcement/Security,10000,B
+Legal,10000,B
+Management/Executive,10000,B
+Manufacturing/Operations,10000,B
+Marketing,10000,E
+Non-Profit/Volunteer,30000,B
+Pharmaceutical/Biotech,30000,D
+Professional Services,30000,B
+QA/Quality Control,30000,C
+Real Estate,30000,C
+Restaurant/Food Service,30000,C
+Retail,30000,
+Sales,30000,C
+Science/Research,30000,C
+Skilled Labor,30000,C
+Technology,30000,C
+Telecommunications,30000,C
+Transportation/Logistics,30000,C
+Other,40000,D
